@@ -1,7 +1,7 @@
 # vim-instruction
 
 заменить файл с настройками
-cat ~/.vimrc
+vim ~/.vimrc
 
 плагины
 https://github.com/VundleVim/Vundle.vim
